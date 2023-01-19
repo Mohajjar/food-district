@@ -742,7 +742,7 @@ header .arrow-down {
 /*Start Recipes*/
 .recipes .image {
     height: 350px;
-    background: url("background\3picsfd.png") fixed center;
+    background: url("background/3picsfd.png") fixed center;
     background-size: cover;
 }
 /*End Recipes*/
